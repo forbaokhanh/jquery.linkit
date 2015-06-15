@@ -14,3 +14,4 @@
 jQuery - [http://jquery.com](http://jquery.com)
 
 ##Links##
+MIT License
